@@ -1,0 +1,9 @@
+C:\Users\gui_d\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.FrmGame.resources
+C:\Users\gui_d\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.csproj.GenerateResource.cache
+C:\Users\gui_d\source\repos\SnakeGame\SnakeGame\bin\Release\SnakeGame.exe.config
+C:\Users\gui_d\source\repos\SnakeGame\SnakeGame\bin\Release\SnakeGame.exe
+C:\Users\gui_d\source\repos\SnakeGame\SnakeGame\bin\Release\SnakeGame.pdb
+C:\Users\gui_d\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.Properties.Resources.resources
+C:\Users\gui_d\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\gui_d\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.exe
+C:\Users\gui_d\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.pdb
